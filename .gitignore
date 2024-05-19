@@ -1,6 +1,8 @@
 videos/*.mp4
 *.mp4
 *.wav
+/videos
 videos
+./videos/*.mp4
 video
 
