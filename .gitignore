@@ -5,4 +5,6 @@ videos/*.mp4
 videos
 ./videos/*.mp4
 video
-
+sounds
+./sounds/*
+/sounds/*
